@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Webpack Dev Server 👋</h1>
+<h1 align="center">Webpack Dev Server</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="teste" target="_blank">
@@ -17,10 +17,16 @@
 npm install
 ```
 
-## Usage
+## Run development environment
 
 ```sh
 npm run dev
+```
+
+## Run application build
+
+```sh
+npm run build
 ```
 
 ## Author
@@ -38,7 +44,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Diziano](https://github.com/diziano).<br />
-This project is [MIT](teste) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This project is [MIT](LICENSE.md) licensed.
