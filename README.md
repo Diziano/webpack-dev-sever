@@ -1,4 +1,4 @@
-<h1 align="center">to Webpack Dev Server</h1>
+<h1 align="center">Webpack Dev Server</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="teste" target="_blank">
@@ -45,6 +45,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Diziano](https://github.com/diziano).<br />
 This project is [MIT](LICENSE.md) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
